@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "phoenix-nc",
+    "default": "phoenix-nc"
+  },
+  "targets": {}
+}
