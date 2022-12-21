@@ -1,7 +1,5 @@
 {
   "projects": {
-    "staging": "phoenix-nc",
-    "default": "phoenix-nc"
-  },
-  "targets": {}
+    "default": "todolistreal-c84e0"
+  }
 }
